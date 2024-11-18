@@ -14,7 +14,7 @@
 
 ## 使用方法
 
-未定
+Flutter を使用し iOS/Android アプリの開発を行う。
 
 ## miro の URL
 
